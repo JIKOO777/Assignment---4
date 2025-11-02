@@ -1,0 +1,10 @@
+dataset,index,n,m,source,relaxations,time_ms,target,dist_target
+small.json,0,6,8,0,5,0.684,5,11
+small.json,1,1,0,0,0,0.005,0,0
+small.json,2,10,14,0,9,0.013,9,36
+medium.json,0,1,0,0,0,0.004,0,0
+medium.json,1,15,21,0,14,0.022,14,89
+medium.json,2,1,0,0,0,0.004,0,0
+large.json,0,1,0,0,0,0.005,0,0
+large.json,1,35,51,0,34,0.020,34,514
+large.json,2,1,0,0,0,0.004,0,0

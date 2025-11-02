@@ -1,0 +1,10 @@
+dataset,index,n,m,directed,weight_model
+small.json,0,6,8,true,edge
+small.json,1,8,12,true,edge
+small.json,2,10,14,true,edge
+medium.json,0,12,18,true,edge
+medium.json,1,15,21,true,edge
+medium.json,2,18,27,true,edge
+large.json,0,25,37,true,edge
+large.json,1,35,51,true,edge
+large.json,2,45,67,true,edge

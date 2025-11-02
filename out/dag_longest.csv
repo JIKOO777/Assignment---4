@@ -1,0 +1,10 @@
+dataset,index,n,m,time_ms,best_length,path_size
+small.json,0,6,8,0.468,15,6
+small.json,1,1,0,0.007,0,1
+small.json,2,10,14,0.025,45,10
+medium.json,0,1,0,0.007,0,1
+medium.json,1,15,21,0.019,105,15
+medium.json,2,1,0,0.008,0,1
+large.json,0,1,0,0.008,0,1
+large.json,1,35,51,0.034,595,35
+large.json,2,1,0,0.009,0,1
