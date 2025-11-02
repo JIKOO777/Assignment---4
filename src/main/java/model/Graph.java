@@ -5,7 +5,8 @@ import java.util.*;
 public class Graph {
     public final int n;
     public final boolean directed;
-    public final List<List<Edge>> adj;
+    public final java.util.List<java.util.List<Edge>> adj;
+
     public Graph(int n, boolean directed) {
         this.n = n; this.directed = directed;
         this.adj = new ArrayList<>(n);
